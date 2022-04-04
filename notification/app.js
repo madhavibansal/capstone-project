@@ -7,8 +7,8 @@ const rabbitsetting = {
     protocol:'amqp',
     hostname:'localhost',
     port:5672,
-    username:'guest',
-    password:'guest',
+    username:'',
+    password:'',
     vhost:'/',
     authMechanism:['PLAIN','AMQPLAIN','EXTERNAL']
 }
